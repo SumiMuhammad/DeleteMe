@@ -8,4 +8,8 @@ public class Laptop {
     void ManufacturingDate(){
         System.out.println("1-Jan-2025");
     }
+
+    void MaxRam(){
+        System.out.println("Maz Ram is 64 GB");
+    }
 }
