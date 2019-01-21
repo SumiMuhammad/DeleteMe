@@ -4,5 +4,7 @@ public class Main {
 
         System.out.println("Hello World!");
         int sum = 1 + 2;
+
+        new Math().Multiply(100,100);
     }
 }
