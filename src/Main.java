@@ -6,5 +6,6 @@ public class Main {
         int sum = 1 + 2;
 
         new Math().Multiply(100,100);
+        new Math().subtract(100,100);
     }
 }
