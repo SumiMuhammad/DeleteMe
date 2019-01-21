@@ -7,5 +7,6 @@ public class Main {
 
         new Math().Multiply(100,100);
         new Math().subtract(100,100);
+        new Math().add(100,100);
     }
 }
