@@ -6,4 +6,7 @@ public class Math {
     void subtract(int value1, int value2) {
         System.out.println( value1 - value2);
     }
+    void Multiply(int value1, int value2) {
+        System.out.println( value1 * value2);
+    }
 }
